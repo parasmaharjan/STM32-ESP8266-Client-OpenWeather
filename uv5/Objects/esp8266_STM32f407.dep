@@ -1,0 +1,89 @@
+Dependencies for Project 'esp8266', Target 'STM32f407': (DO NOT MODIFY !)
+F (..\src\main.c)(0x5870DF62)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Libraries\CMSIS\Include -I ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include -I ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I ..\src-IE:\Project\Resources\STM32\stm32-master\stm32-master\STM32F4-Discovery_FW_V1.1.0\Project\Peripheral_Examples\ESP8266\uv5\RTE\_STM32f407-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX --C99-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\src\stm32f4xx_discovery.h)(0x5870D322)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4.h)(0x55432FE8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6265C)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x55432FE8)
+I (..\src\stm32f4xx_conf.h)(0x58708ECA)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h)(0x55432FE8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F6265C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F6265C)
+F (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c)(0x55432FE8)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Libraries\CMSIS\Include -I ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include -I ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I ..\src-IE:\Project\Resources\STM32\stm32-master\stm32-master\STM32F4-Discovery_FW_V1.1.0\Project\Peripheral_Examples\ESP8266\uv5\RTE\_STM32f407-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX --C99-o .\objects\stm32f4xx_gpio.o --omf_browse .\objects\stm32f4xx_gpio.crf --depend .\objects\stm32f4xx_gpio.d)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4.h)(0x55432FE8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6265C)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x55432FE8)
+I (..\src\stm32f4xx_conf.h)(0x58708ECA)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h)(0x55432FE8)
+F (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c)(0x55432FE8)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Libraries\CMSIS\Include -I ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include -I ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I ..\src-IE:\Project\Resources\STM32\stm32-master\stm32-master\STM32F4-Discovery_FW_V1.1.0\Project\Peripheral_Examples\ESP8266\uv5\RTE\_STM32f407-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX --C99-o .\objects\stm32f4xx_usart.o --omf_browse .\objects\stm32f4xx_usart.crf --depend .\objects\stm32f4xx_usart.d)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4.h)(0x55432FE8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6265C)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x55432FE8)
+I (..\src\stm32f4xx_conf.h)(0x58708ECA)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h)(0x55432FE8)
+F (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c)(0x55432FE8)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Libraries\CMSIS\Include -I ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include -I ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I ..\src-IE:\Project\Resources\STM32\stm32-master\stm32-master\STM32F4-Discovery_FW_V1.1.0\Project\Peripheral_Examples\ESP8266\uv5\RTE\_STM32f407-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX --C99-o .\objects\stm32f4xx_rcc.o --omf_browse .\objects\stm32f4xx_rcc.crf --depend .\objects\stm32f4xx_rcc.d)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4.h)(0x55432FE8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6265C)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x55432FE8)
+I (..\src\stm32f4xx_conf.h)(0x58708ECA)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h)(0x55432FE8)
+F (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c)(0x55432FE8)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Libraries\CMSIS\Include -I ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include -I ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I ..\src-IE:\Project\Resources\STM32\stm32-master\stm32-master\STM32F4-Discovery_FW_V1.1.0\Project\Peripheral_Examples\ESP8266\uv5\RTE\_STM32f407-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX --C99-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4.h)(0x55432FE8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6265C)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x55432FE8)
+I (..\src\stm32f4xx_conf.h)(0x58708ECA)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x55432FE8)
+F (RTE\Device\STM32F407VGTx\startup_stm32f407xx.s)(0x5822ECFC)(--cpu Cortex-M4.fp -g --apcs=interwork -IE:\Project\Resources\STM32\stm32-master\stm32-master\STM32F4-Discovery_FW_V1.1.0\Project\Peripheral_Examples\ESP8266\uv5\RTE\_STM32f407-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 522" --pd "_RTE_ SETA 1" --pd "STM32F407xx SETA 1"--list .\listings\startup_stm32f407xx.lst --xref -o .\objects\startup_stm32f407xx.o --depend .\objects\startup_stm32f407xx.d)
+F (RTE\Device\STM32F407VGTx\system_stm32f4xx.c)(0x58708BAF)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Libraries\CMSIS\Include -I ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include -I ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I ..\src-IE:\Project\Resources\STM32\stm32-master\stm32-master\STM32F4-Discovery_FW_V1.1.0\Project\Peripheral_Examples\ESP8266\uv5\RTE\_STM32f407-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX --C99-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4.h)(0x55432FE8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6265C)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h)(0x55432FE8)
+I (..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x55432FE8)
+I (..\src\stm32f4xx_conf.h)(0x58708ECA)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x55432FE8)
+I (..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h)(0x55432FE8)
